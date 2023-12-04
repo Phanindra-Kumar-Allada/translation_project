@@ -4,15 +4,10 @@ This project is a simple translation application with a graphical user interface
 # Project Structure
 The project is organized as follows:
 
-translation_project/
-│
-├── data/
-│   └── output_data.csv
-│
-├── translator/
-│   └── translator.py
-│
-├── app_with_better_GUI.py
+translation_project
+1. data/output_data.csv
+2. translator/translator.py
+3. app.py
 
 # Dependencies
 Pandas: For data manipulation and storage.
@@ -31,7 +26,7 @@ googletrans: For interfacing with the Google Translate API.
 1. Run the translation application.
    python app.py
 2. The GUI will appear
-   a. Enter the text you want to translate in the provided text entry field.
-   b. Select the input and target languages from the dropdown menus.
-   c. Click the "Translate" button to view the translation result in the output text box.
-   d. The translation result is also stored in data/output_data.csv.
+3. Enter the text you want to translate in the provided text entry field.
+4. Select the input and target languages from the drop-down menus.
+5. Click the "Translate" button to view the translation result in the output text box.
+6. The translation result is also stored in data/output_data.csv.
