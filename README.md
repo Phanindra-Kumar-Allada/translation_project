@@ -16,14 +16,14 @@ tkinter: For building the graphical user interface.
 googletrans: For interfacing with the Google Translate API.
 
 # Setup
-1. Navigate to the project directory.
-   cd python_translation_project
+1. Navigate to the project directory:
+   cd translation_project
    
 2. Install project dependencies:
    pip install googletrans==4.0.0-rc1
 
 # Usage
-1. Run the translation application.
+1. Run the translation application:
    python app.py
 2. The GUI will appear
 3. Enter the text you want to translate in the provided text entry field.
