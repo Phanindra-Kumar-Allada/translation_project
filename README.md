@@ -1,5 +1,5 @@
 # Python_Project for Translation App
-This project is a simple translation application with a graphical user interface (GUI) that utilizes the Google Translate API.
+This project is a language translation application with a graphical user interface (GUI) that utilizes the Google Translate API.
 
 # Project Structure
 The project is organized as follows:
@@ -12,8 +12,8 @@ translation_project
 # Dependencies
 Pandas: For data manipulation and storage.
 numpy: For handling arrays.
-tkinter: For building the graphical user interface.
-googletrans: For interfacing with the Google Translate API.
+tkinter: This is used to build the graphical user interface.
+googletrans: This is for interfacing with the Google Translate API.
 
 # Setup
 1. Navigate to the project directory:
