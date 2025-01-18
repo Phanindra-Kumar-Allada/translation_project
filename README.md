@@ -3,6 +3,8 @@ This project is a language translation application with a graphical user interfa
 
 # Video Explanation
 
+Have to attach the video link
+
 
 # Project Structure
 The project is organized as follows:
