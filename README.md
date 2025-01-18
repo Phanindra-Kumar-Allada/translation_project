@@ -2,7 +2,6 @@
 This project is a language translation application with a graphical user interface (GUI) that utilizes the Google Translate API.
 
 # Video Explanation
-
 Have to attach the video link or maybe generate a new video
 
 
