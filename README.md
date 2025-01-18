@@ -3,7 +3,7 @@ This project is a language translation application with a graphical user interfa
 
 # Video Explanation
 
-Have to attach the video link
+Have to attach the video link or maybe generate a new video
 
 
 # Project Structure
