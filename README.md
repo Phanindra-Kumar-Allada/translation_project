@@ -29,7 +29,7 @@ googletrans: This is for interfacing with the Google Translate API.
 # Usage
 1. Run the translation application:
    python app.py
-2. The GUI will appear
+2. The GUI will appear.
 3. Enter the text you want to translate in the provided text entry field.
 4. Select the input and target languages from the drop-down menus.
 5. Click the "Translate" button to view the translation result in the output text box.
