@@ -1,4 +1,4 @@
-# Python_Project for Translation App
+# Python Project for Translation App
 This project is a language translation application with a graphical user interface (GUI) that utilizes the Google Translate API.
 
 <!--# Video Explanation
